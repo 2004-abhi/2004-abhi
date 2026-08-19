@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Distracted Driver Detection System",
+    "repo": "2004-abhi/DISTRACTED-DRIVER-DETECTION-SYSTEM-FINAL-YEAR-PROJECT",
+   "logo": "logo/driver.png",
+    "description": "A hybrid deep learning system for real-time distracted driver detection using VGG16 and BiLSTM.",
+    "tags": [
+      "Python",
+      "TensorFlow",
+      "Keras",
+      "VGG16",
+      "BiLSTM",
+      "OpenCV"
+    ]
+  },
+  {
+    "name": "CSS Practice",
+    "repo": "2004-abhi/CSS-PRACTICE",
+    "logo": "logo/css.png",
+    "description": "A collection of CSS practice projects and frontend experiments.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "HTML CSS Journey",
+    "repo": "2004-abhi/HTML-CSS-JOURNEY-",
+  "logo": "logo/html-css.png",
+    "description": "A learning journey featuring HTML and CSS practice, experiments, and web development projects.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "Web Development"
+    ]
+  },
+  {
+    "name": "Python Journey",
+    "repo": "2004-abhi/Python-Journey",
+   "logo": "logo/python.png",
+    "description": "A structured Python learning journey with practice programs, concepts, and coding exercises.",
+    "tags": [
+      "Python",
+      "Programming",
+      "Learning"
+    ]
+  },
+  {
+    "name": "HTML CSS Web Pages",
+    "repo": "2004-abhi/HTML-CSS-WEB-PAGEE",
+    "logo": "logo/web-page.png",
+    "description": "A collection of web page projects built using HTML and CSS.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "Web Development",
+      "Frontend"
+    ]
+  }
+]
