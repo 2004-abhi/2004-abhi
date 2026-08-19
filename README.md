@@ -98,8 +98,8 @@ A collection of web page projects built using HTML and CSS.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2004-abhi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004-abhi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=2004-abhi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="Abhinand's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=2004-abhi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🔥 GitHub Streak
