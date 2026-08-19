@@ -12,69 +12,61 @@ I'm a Computer Science and Engineering graduate passionate about **Python, Artif
 I enjoy building practical projects, learning new technologies, and improving my development skills through hands-on projects.
 
 Currently, I'm focusing on **Python and Full Stack Development** while continuing to explore AI/ML technologies.
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<h3>Programming Languages</h3>
+### Programming Languages
 
-<p>
-<b>Python</b> &nbsp; • &nbsp;
-<b>Java</b> &nbsp; • &nbsp;
-<b>JavaScript</b>
-</p>
+- Python
+- Java
+- JavaScript
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<h3>Web Development</h3>
+### Web Development
 
-<p>
-<b>HTML</b> &nbsp; • &nbsp;
-<b>CSS</b> &nbsp; • &nbsp;
-<b>React.js</b>
-<br><br>
-<b>Flask</b> &nbsp; • &nbsp;
-<b>Django</b> &nbsp; • &nbsp;
-<b>Node.js</b>
-</p>
+- HTML
+- CSS
+- React.js
+- Flask
+- Django
+- Node.js
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<h3>AI / Machine Learning</h3>
+### AI / Machine Learning
 
-<p>
-<b>TensorFlow</b> &nbsp; • &nbsp;
-<b>Keras</b> &nbsp; • &nbsp;
-<b>OpenCV</b>
-<br><br>
-<b>CNN</b> &nbsp; • &nbsp;
-<b>LSTM</b> &nbsp; • &nbsp;
-<b>VGG16</b> &nbsp; • &nbsp;
-<b>NLP</b>
-</p>
+- TensorFlow
+- Keras
+- OpenCV
+- CNN
+- LSTM
+- VGG16
+- NLP
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<h3>Databases & Tools</h3>
+### Databases
 
-<p>
-<b>MySQL</b> &nbsp; • &nbsp;
-<b>SQL Server</b>
-<br><br>
-<b>Git</b> &nbsp; • &nbsp;
-<b>GitHub</b> &nbsp; • &nbsp;
-<b>VS Code</b>
-</p>
+- MySQL
+- SQL Server
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
 
 </td>
 </tr>
