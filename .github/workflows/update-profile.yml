@@ -1,19 +1,29 @@
-name: Update GitHub Profile
+name: Generate Projects Panel
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "projects.json"
+      - "logo/**"
+      - ".github/scripts/fetch_data.py"
+      - ".github/scripts/generate_projects.py"
+
   workflow_dispatch:
+
   schedule:
-    - cron: "0 0 * * 0"
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  update-profile:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -21,22 +31,32 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Fetch GitHub project data
+      - name: Fetch live GitHub data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python .github/scripts/fetch_data.py
+          python3 .github/scripts/fetch_data.py
 
-      - name: Commit updated project data
+      - name: Generate projects panel
+        run: |
+          mkdir -p out
+          python3 .github/scripts/generate_projects.py merged.json out
+
+      - name: Save generated panel
+        run: |
+          mkdir -p projects
+          cp out/projects.svg projects/projects.svg
+
+      - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add merged.json
+          git add merged.json projects/projects.svg
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update project data"
+            git commit -m "Update projects panel"
             git push
           fi
