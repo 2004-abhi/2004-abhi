@@ -17,29 +17,33 @@ Currently, I'm focused on strengthening my **software development and full-stack
 
 <div align="center">
 
-<table>
+<table width="90%" cellpadding="25" cellspacing="0">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### Programming Languages
+<h3>Programming Languages</h3>
 
-- Python
-- Java
-- JavaScript
+<p>
+• Python<br>
+• Java<br>
+• JavaScript
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### Web Development
+<h3>Web Development</h3>
 
-- HTML
-- CSS
-- React.js
-- Flask
-- Django
-- Node.js
+<p>
+• HTML<br>
+• CSS<br>
+• React.js<br>
+• Flask<br>
+• Django<br>
+• Node.js
+</p>
 
 </td>
 
@@ -47,32 +51,38 @@ Currently, I'm focused on strengthening my **software development and full-stack
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### AI / Machine Learning
+<h3>AI / Machine Learning</h3>
 
-- TensorFlow
-- Keras
-- OpenCV
-- CNN
-- LSTM
-- VGG16
-- NLP
+<p>
+• TensorFlow<br>
+• Keras<br>
+• OpenCV<br>
+• CNN<br>
+• LSTM<br>
+• VGG16<br>
+• NLP
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### Databases
+<h3>Databases</h3>
 
-- MySQL
-- SQL Server
+<p>
+• MySQL<br>
+• SQL Server
+</p>
 
-### Tools
+<h3>Tools</h3>
 
-- Git
-- GitHub
-- VS Code
+<p>
+• Git<br>
+• GitHub<br>
+• VS Code
+</p>
 
 </td>
 
