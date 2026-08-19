@@ -12,7 +12,7 @@ I'm a Computer Science and Engineering graduate passionate about **Python, Artif
 I enjoy building practical projects, learning new technologies, and improving my development skills through hands-on projects.
 
 Currently, I'm focusing on **Python and Full Stack Development** while continuing to explore AI/ML technologies.
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
