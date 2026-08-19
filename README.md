@@ -79,7 +79,8 @@ Currently, I'm focusing on **Python and Full Stack Development** while continuin
 </table>
 
 </div>
-## 🚀 Featured Projects
+
+## Featured Projects
 
 ### Distracted Driver Detection System
 
@@ -129,20 +130,20 @@ A collection of web page projects built using HTML and CSS.
 
 [View Project](https://github.com/2004-abhi/HTML-CSS-WEB-PAGEE)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=2004-abhi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="Abhinand's GitHub Stats" />
   <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=2004-abhi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=2004-abhi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abhinand-h-2a8538292" target="_blank">
@@ -154,7 +155,7 @@ A collection of web page projects built using HTML and CSS.
   </a>
 </p>
 
-## 🌱 Currently Learning & Practicing
+## Currently Learning & Practicing
 
 - Python
 - Full Stack Development
