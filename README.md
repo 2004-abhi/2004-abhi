@@ -16,13 +16,14 @@ Currently, I'm focusing on **Python and Full Stack Development** while continuin
 
 <table>
 <tr>
-
 <td width="50%" align="center" valign="top">
 
 <h3>Programming Languages</h3>
 
 <p>
-Python&nbsp;&nbsp; • &nbsp;&nbsp;Java&nbsp;&nbsp; • &nbsp;&nbsp;JavaScript
+<b>Python</b> &nbsp; • &nbsp;
+<b>Java</b> &nbsp; • &nbsp;
+<b>JavaScript</b>
 </p>
 
 </td>
@@ -32,47 +33,49 @@ Python&nbsp;&nbsp; • &nbsp;&nbsp;Java&nbsp;&nbsp; • &nbsp;&nbsp;JavaScript
 <h3>Web Development</h3>
 
 <p>
-HTML&nbsp;&nbsp; • &nbsp;&nbsp;CSS&nbsp;&nbsp; • &nbsp;&nbsp;React.js
-<br>
-Flask&nbsp;&nbsp; • &nbsp;&nbsp;Django&nbsp;&nbsp; • &nbsp;&nbsp;Node.js
+<b>HTML</b> &nbsp; • &nbsp;
+<b>CSS</b> &nbsp; • &nbsp;
+<b>React.js</b>
+<br><br>
+<b>Flask</b> &nbsp; • &nbsp;
+<b>Django</b> &nbsp; • &nbsp;
+<b>Node.js</b>
 </p>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" align="center" valign="top">
 
 <h3>AI / Machine Learning</h3>
 
 <p>
-TensorFlow&nbsp;&nbsp; • &nbsp;&nbsp;Keras&nbsp;&nbsp; • &nbsp;&nbsp;OpenCV
-<br>
-CNN&nbsp;&nbsp; • &nbsp;&nbsp;LSTM&nbsp;&nbsp; • &nbsp;&nbsp;VGG16&nbsp;&nbsp; • &nbsp;&nbsp;NLP
+<b>TensorFlow</b> &nbsp; • &nbsp;
+<b>Keras</b> &nbsp; • &nbsp;
+<b>OpenCV</b>
+<br><br>
+<b>CNN</b> &nbsp; • &nbsp;
+<b>LSTM</b> &nbsp; • &nbsp;
+<b>VGG16</b> &nbsp; • &nbsp;
+<b>NLP</b>
 </p>
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
-<h3>Databases</h3>
+<h3>Databases & Tools</h3>
 
 <p>
-MySQL&nbsp;&nbsp; • &nbsp;&nbsp;SQL Server
+<b>MySQL</b> &nbsp; • &nbsp;
+<b>SQL Server</b>
+<br><br>
+<b>Git</b> &nbsp; • &nbsp;
+<b>GitHub</b> &nbsp; • &nbsp;
+<b>VS Code</b>
 </p>
 
-<h3>Tools</h3>
-
-<p>
-Git&nbsp;&nbsp; • &nbsp;&nbsp;GitHub&nbsp;&nbsp; • &nbsp;&nbsp;VS Code
-</p>
-
-</td>
-
-</tr>
-</table>
 </td>
 </tr>
 </table>
