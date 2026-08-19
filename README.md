@@ -146,13 +146,13 @@ A collection of web page projects built using HTML and CSS.
 
 ## CONNECT WITH ME
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhinand-h-2a8538292" target="_blank">
-    LinkedIn
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinand-h-2a8538292">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhinand%20H-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:abhinandharilalv@gmail.com">
-    Email
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
