@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - "projects.json"
-      - "logo/**"
+      - "logos/**"
       - ".github/scripts/fetch_data.py"
       - ".github/scripts/generate_projects.py"
 
@@ -58,5 +58,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Update projects panel"
+            git pull --rebase origin main
             git push
           fi
