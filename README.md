@@ -12,10 +12,13 @@ I'm a Computer Science and Engineering graduate passionate about **Python, Artif
 I enjoy building practical projects, learning new technologies, and improving my development skills through hands-on projects.
 
 Currently, I'm focusing on **Python and Full Stack Development** while continuing to explore AI/ML technologies.
-## Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### Programming Languages
@@ -38,9 +41,11 @@ Currently, I'm focusing on **Python and Full Stack Development** while continuin
 - Node.js
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### AI / Machine Learning
@@ -69,8 +74,11 @@ Currently, I'm focusing on **Python and Full Stack Development** while continuin
 - VS Code
 
 </td>
+
 </tr>
 </table>
+
+</div>
 ## 🚀 Featured Projects
 
 ### Distracted Driver Detection System
