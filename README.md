@@ -1,4 +1,3 @@
-# Hi, I'm Abhinand H 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Abhinand%20H&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
