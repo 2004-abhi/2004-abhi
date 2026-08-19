@@ -47,7 +47,7 @@ Currently, I'm focusing on **Python and Full Stack Development** while continuin
 
 ## 🚀 Featured Projects
 
-###  Distracted Driver Detection System
+### Distracted Driver Detection System
 
 A hybrid deep learning system for real-time distracted driver detection using **VGG16 + BiLSTM**.
 
@@ -57,7 +57,7 @@ A hybrid deep learning system for real-time distracted driver detection using **
 
 ---
 
-###  CSS Practice
+### CSS Practice
 
 A collection of CSS practice projects and frontend experiments created while improving my web development skills.
 
@@ -67,7 +67,7 @@ A collection of CSS practice projects and frontend experiments created while imp
 
 ---
 
-###  HTML & CSS Journey
+### HTML & CSS Journey
 
 A learning journey focused on HTML and CSS concepts, practice, and web development experiments.
 
@@ -77,7 +77,7 @@ A learning journey focused on HTML and CSS concepts, practice, and web developme
 
 ---
 
-###  Python Journey
+### Python Journey
 
 A structured Python learning journey containing practice programs, concepts, and coding exercises.
 
@@ -87,7 +87,7 @@ A structured Python learning journey containing practice programs, concepts, and
 
 ---
 
-###  HTML CSS Web Pages
+### HTML CSS Web Pages
 
 A collection of web page projects built using HTML and CSS.
 
