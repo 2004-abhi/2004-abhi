@@ -14,12 +14,22 @@ I enjoy building practical projects, learning new technologies, and improving my
 Currently, I'm focusing on **Python and Full Stack Development** while continuing to explore AI/ML technologies.
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Programming Languages
+
 - Python
 - Java
 - JavaScript
 
+</td>
+
+<td width="50%" valign="top">
+
 ### Web Development
+
 - HTML
 - CSS
 - React.js
@@ -27,7 +37,14 @@ Currently, I'm focusing on **Python and Full Stack Development** while continuin
 - Django
 - Node.js
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### AI / Machine Learning
+
 - TensorFlow
 - Keras
 - OpenCV
@@ -36,15 +53,24 @@ Currently, I'm focusing on **Python and Full Stack Development** while continuin
 - VGG16
 - NLP
 
+</td>
+
+<td width="50%" valign="top">
+
 ### Databases
+
 - MySQL
 - SQL Server
 
 ### Tools
+
 - Git
 - GitHub
 - VS Code
 
+</td>
+</tr>
+</table>
 ## 🚀 Featured Projects
 
 ### Distracted Driver Detection System
