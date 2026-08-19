@@ -134,3 +134,9 @@ A collection of web page projects built using HTML and CSS.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=2004-abhi&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
+## 🚀 Dynamic Projects
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/2004-abhi/2004-abhi/main/projects/projects.svg" alt="Featured Projects" />
+</p>
