@@ -16,58 +16,63 @@ Currently, I'm focusing on **Python and Full Stack Development** while continuin
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### Programming Languages
+<td width="50%" align="center" valign="top">
 
-- Python
-- Java
-- JavaScript
+<h3>Programming Languages</h3>
+
+<p>
+Python&nbsp;&nbsp; • &nbsp;&nbsp;Java&nbsp;&nbsp; • &nbsp;&nbsp;JavaScript
+</p>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>Web Development</h3>
+
+<p>
+HTML&nbsp;&nbsp; • &nbsp;&nbsp;CSS&nbsp;&nbsp; • &nbsp;&nbsp;React.js
+<br>
+Flask&nbsp;&nbsp; • &nbsp;&nbsp;Django&nbsp;&nbsp; • &nbsp;&nbsp;Node.js
+</p>
 
 </td>
 
-<td width="50%" valign="top">
-
-### Web Development
-
-- HTML
-- CSS
-- React.js
-- Flask
-- Django
-- Node.js
-
-</td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-### AI / Machine Learning
+<td width="50%" align="center" valign="top">
 
-- TensorFlow
-- Keras
-- OpenCV
-- CNN
-- LSTM
-- VGG16
-- NLP
+<h3>AI / Machine Learning</h3>
+
+<p>
+TensorFlow&nbsp;&nbsp; • &nbsp;&nbsp;Keras&nbsp;&nbsp; • &nbsp;&nbsp;OpenCV
+<br>
+CNN&nbsp;&nbsp; • &nbsp;&nbsp;LSTM&nbsp;&nbsp; • &nbsp;&nbsp;VGG16&nbsp;&nbsp; • &nbsp;&nbsp;NLP
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### Databases
+<h3>Databases</h3>
 
-- MySQL
-- SQL Server
+<p>
+MySQL&nbsp;&nbsp; • &nbsp;&nbsp;SQL Server
+</p>
 
-### Tools
+<h3>Tools</h3>
 
-- Git
-- GitHub
-- VS Code
+<p>
+Git&nbsp;&nbsp; • &nbsp;&nbsp;GitHub&nbsp;&nbsp; • &nbsp;&nbsp;VS Code
+</p>
 
+</td>
+
+</tr>
+</table>
 </td>
 </tr>
 </table>
