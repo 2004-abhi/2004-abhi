@@ -79,6 +79,7 @@ Currently, I'm focused on strengthening my **software development and full-stack
 </table>
 
 </div>
+
 ## FEATURED PROJECTS
 
 ### Distracted Driver Detection System
