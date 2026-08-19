@@ -5,14 +5,15 @@
 
 # Hi, I'm Abhinand H 👋
 
-### Computer Science Engineer | Python Developer | AI & Web Development Enthusiast
+### Computer Science Engineer | Software Developer | AI & Web Development Enthusiast
 
-I'm a Computer Science and Engineering graduate passionate about **Python, Artificial Intelligence, Machine Learning, and Web Development**.
+I'm a Computer Science and Engineering graduate passionate about **software development, Python, Artificial Intelligence, Machine Learning, and Web Development**.
 
-I enjoy building practical projects, learning new technologies, and improving my development skills through hands-on projects.
+I enjoy building practical applications, exploring new technologies, and continuously improving my technical skills through hands-on projects.
 
-Currently, I'm focusing on **Python and Full Stack Development** while continuing to explore AI/ML technologies.
-## Tech Stack
+Currently, I'm focused on strengthening my **software development and full-stack skills** while continuously learning and exploring new technologies across **Python, web development, and AI/ML**.
+
+## TECH STACK
 
 <div align="center">
 
@@ -80,7 +81,7 @@ Currently, I'm focusing on **Python and Full Stack Development** while continuin
 
 </div>
 
-## Featured Projects
+## FEATURED PROJECTS
 
 ### Distracted Driver Detection System
 
@@ -130,20 +131,20 @@ A collection of web page projects built using HTML and CSS.
 
 [View Project](https://github.com/2004-abhi/HTML-CSS-WEB-PAGEE)
 
-## GitHub Stats
+## GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=2004-abhi&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="Abhinand's GitHub Stats" />
   <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=2004-abhi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## GitHub Streak
+## GITHUB STREAK
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=2004-abhi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## Connect With Me
+## CONNECT WITH ME
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abhinand-h-2a8538292" target="_blank">
@@ -155,7 +156,7 @@ A collection of web page projects built using HTML and CSS.
   </a>
 </p>
 
-## Currently Learning & Practicing
+## CURRENTLY LEARNING & PRACTICING
 
 - Python
 - Full Stack Development
@@ -164,13 +165,13 @@ A collection of web page projects built using HTML and CSS.
 - Data Structures & Algorithms
 - Machine Learning
 
-## 📈 My GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=2004-abhi&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-## 🚀 Dynamic Projects
+## DYNAMIC PROJECTS
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/2004-abhi/2004-abhi/main/projects/projects.svg" alt="Featured Projects" />
