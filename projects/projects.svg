@@ -1,355 +1,150 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1200"
-     height="760"
-     viewBox="0 0 1200 760">
+    width="1200"
+    height="900">
 
-  <!-- Background -->
-  <rect width="1200" height="760" fill="#0a101f"/>
+    <foreignObject x="0" y="0" width="1200"
+                   height="900">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
 
+<style>
+body {
+    margin: 0;
+    padding: 30px;
+    background: #0a101f;
+    color: #f8fafc;
+    font-family: Arial, sans-serif;
+}
 
-  <!-- ================= PROJECT 1 ================= -->
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+}
 
-  <a href="https://github.com/2004-abhi/DISTRACTED-DRIVER-DETECTION-SYSTEM-FINAL-YEAR-PROJECT">
+.card {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    padding: 20px;
+    min-height: 120px;
 
-    <rect x="30" y="30"
-          width="550"
-          height="210"
-          rx="16"
-          fill="#111827"
-          stroke="#263449"/>
+    background: #111827;
+    border: 1px solid #263449;
+    border-radius: 16px;
 
-    <circle cx="80"
-            cy="80"
-            r="28"
-            fill="#2563eb"/>
+    text-decoration: none;
+    color: #f8fafc;
+}
 
-    <text x="80"
-          y="88"
-          text-anchor="middle"
-          font-family="Arial, sans-serif"
-          font-size="22"
-          font-weight="bold"
-          fill="#ffffff">
-      AI
-    </text>
+.logo {
+    width: 72px;
+    height: 72px;
+    object-fit: contain;
+    border-radius: 12px;
+}
 
-    <text x="125"
-          y="70"
-          font-family="Arial, sans-serif"
-          font-size="20"
-          font-weight="bold"
-          fill="#f8fafc">
-      Distracted Driver Detection
-    </text>
+.content {
+    flex: 1;
+}
 
-    <text x="125"
-          y="100"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          fill="#94a3b8">
-      Real-time driver behavior detection
-    </text>
+h2 {
+    margin: 0 0 8px 0;
+    font-size: 20px;
+}
 
-    <text x="125"
-          y="125"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          fill="#94a3b8">
-      using VGG16 + BiLSTM.
-    </text>
+p {
+    margin: 0 0 12px 0;
+    color: #94a3b8;
+    font-size: 14px;
+    line-height: 1.5;
+}
 
-    <text x="55"
-          y="170"
-          font-family="Arial, sans-serif"
-          font-size="13"
-          fill="#22d3ee">
-      Python • TensorFlow • Keras • VGG16 • BiLSTM • OpenCV
-    </text>
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
 
-    <text x="55"
-          y="205"
-          font-family="Arial, sans-serif"
-          font-size="13"
-          fill="#60a5fa">
-      View Project →
-    </text>
+.tag {
+    padding: 4px 8px;
+    background: #1e293b;
+    border-radius: 6px;
+    color: #22d3ee;
+    font-size: 11px;
+}
 
-  </a>
+@media (max-width: 700px) {
+    .container {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
+</head>
 
+<body>
 
-  <!-- ================= PROJECT 2 ================= -->
+<div class="container">
 
-  <a href="https://github.com/2004-abhi/CSS-PRACTICE">
+    <a class="card" href="https://github.com/2004-abhi/DISTRACTED-DRIVER-DETECTION-SYSTEM-FINAL-YEAR-PROJECT">
+      <img class="logo" src="https://raw.githubusercontent.com/2004-abhi/2004-abhi/main/logo/driver.png" alt="Distracted Driver Detection System">
+      <div class="content">
+        <h2>Distracted Driver Detection System</h2>
+        <p>A hybrid deep learning system for real-time distracted driver detection using VGG16 and BiLSTM.</p>
+        <div class="tags"><span class="tag">Python</span> <span class="tag">TensorFlow</span> <span class="tag">Keras</span> <span class="tag">VGG16</span> <span class="tag">BiLSTM</span> <span class="tag">OpenCV</span></div>
+      </div>
+    </a>
+    
 
-    <rect x="620"
-          y="30"
-          width="550"
-          height="210"
-          rx="16"
-          fill="#111827"
-          stroke="#263449"/>
+    <a class="card" href="https://github.com/2004-abhi/CSS-PRACTICE">
+      <img class="logo" src="https://raw.githubusercontent.com/2004-abhi/2004-abhi/main/logo/css.png" alt="CSS Practice">
+      <div class="content">
+        <h2>CSS Practice</h2>
+        <p>A collection of CSS practice projects and frontend experiments.</p>
+        <div class="tags"><span class="tag">HTML</span> <span class="tag">CSS</span> <span class="tag">Frontend</span></div>
+      </div>
+    </a>
+    
 
-    <circle cx="670"
-            cy="80"
-            r="28"
-            fill="#ec4899"/>
+    <a class="card" href="https://github.com/2004-abhi/HTML-CSS-JOURNEY-">
+      <img class="logo" src="https://raw.githubusercontent.com/2004-abhi/2004-abhi/main/logo/html-css.png" alt="HTML CSS Journey">
+      <div class="content">
+        <h2>HTML CSS Journey</h2>
+        <p>A learning journey featuring HTML and CSS practice, experiments, and web development projects.</p>
+        <div class="tags"><span class="tag">HTML</span> <span class="tag">CSS</span> <span class="tag">Web Development</span></div>
+      </div>
+    </a>
+    
 
-    <text x="670"
-          y="88"
-          text-anchor="middle"
-          font-family="Arial, sans-serif"
-          font-size="20"
-          font-weight="bold"
-          fill="#ffffff">
-      CSS
-    </text>
+    <a class="card" href="https://github.com/2004-abhi/Python-Journey">
+      <img class="logo" src="https://raw.githubusercontent.com/2004-abhi/2004-abhi/main/logo/python.png" alt="Python Journey">
+      <div class="content">
+        <h2>Python Journey</h2>
+        <p>A structured Python learning journey with practice programs, concepts, and coding exercises.</p>
+        <div class="tags"><span class="tag">Python</span> <span class="tag">Programming</span> <span class="tag">Learning</span></div>
+      </div>
+    </a>
+    
 
-    <text x="715"
-          y="70"
-          font-family="Arial, sans-serif"
-          font-size="20"
-          font-weight="bold"
-          fill="#f8fafc">
-      CSS Practice
-    </text>
+    <a class="card" href="https://github.com/2004-abhi/HTML-CSS-WEB-PAGEE">
+      <img class="logo" src="https://raw.githubusercontent.com/2004-abhi/2004-abhi/main/logo/web-page.png" alt="HTML CSS Web Pages">
+      <div class="content">
+        <h2>HTML CSS Web Pages</h2>
+        <p>A collection of web page projects built using HTML and CSS.</p>
+        <div class="tags"><span class="tag">HTML</span> <span class="tag">CSS</span> <span class="tag">Web Development</span> <span class="tag">Frontend</span></div>
+      </div>
+    </a>
+    
+</div>
 
-    <text x="715"
-          y="100"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          fill="#94a3b8">
-      CSS practice projects and
-    </text>
+</body>
+</html>
 
-    <text x="715"
-          y="125"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          fill="#94a3b8">
-      frontend experiments.
-    </text>
-
-    <text x="645"
-          y="170"
-          font-family="Arial, sans-serif"
-          font-size="13"
-          fill="#22d3ee">
-      HTML • CSS • Frontend
-    </text>
-
-    <text x="645"
-          y="205"
-          font-family="Arial, sans-serif"
-          font-size="13"
-          fill="#60a5fa">
-      View Project →
-    </text>
-
-  </a>
-
-
-  <!-- ================= PROJECT 3 ================= -->
-
-  <a href="https://github.com/2004-abhi/HTML-CSS-JOURNEY-">
-
-    <rect x="30"
-          y="275"
-          width="550"
-          height="210"
-          rx="16"
-          fill="#111827"
-          stroke="#263449"/>
-
-    <circle cx="80"
-            cy="325"
-            r="28"
-            fill="#f97316"/>
-
-    <text x="80"
-          y="333"
-          text-anchor="middle"
-          font-family="Arial, sans-serif"
-          font-size="16"
-          font-weight="bold"
-          fill="#ffffff">
-      WEB
-    </text>
-
-    <text x="125"
-          y="315"
-          font-family="Arial, sans-serif"
-          font-size="20"
-          font-weight="bold"
-          fill="#f8fafc">
-      HTML CSS Journey
-    </text>
-
-    <text x="125"
-          y="345"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          fill="#94a3b8">
-      HTML and CSS learning journey
-    </text>
-
-    <text x="125"
-          y="370"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          fill="#94a3b8">
-      with practical experiments.
-    </text>
-
-    <text x="55"
-          y="415"
-          font-family="Arial, sans-serif"
-          font-size="13"
-          fill="#22d3ee">
-      HTML • CSS • Web Development
-    </text>
-
-    <text x="55"
-          y="450"
-          font-family="Arial, sans-serif"
-          font-size="13"
-          fill="#60a5fa">
-      View Project →
-    </text>
-
-  </a>
-
-
-  <!-- ================= PROJECT 4 ================= -->
-
-  <a href="https://github.com/2004-abhi/Python-Journey">
-
-    <rect x="620"
-          y="275"
-          width="550"
-          height="210"
-          rx="16"
-          fill="#111827"
-          stroke="#263449"/>
-
-    <circle cx="670"
-            cy="325"
-            r="28"
-            fill="#3776ab"/>
-
-    <text x="670"
-          y="333"
-          text-anchor="middle"
-          font-family="Arial, sans-serif"
-          font-size="15"
-          font-weight="bold"
-          fill="#ffffff">
-      PY
-    </text>
-
-    <text x="715"
-          y="315"
-          font-family="Arial, sans-serif"
-          font-size="20"
-          font-weight="bold"
-          fill="#f8fafc">
-      Python Journey
-    </text>
-
-    <text x="715"
-          y="345"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          fill="#94a3b8">
-      Python practice programs,
-    </text>
-
-    <text x="715"
-          y="370"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          fill="#94a3b8">
-      concepts and coding exercises.
-    </text>
-
-    <text x="645"
-          y="415"
-          font-family="Arial, sans-serif"
-          font-size="13"
-          fill="#22d3ee">
-      Python • Programming • Learning
-    </text>
-
-    <text x="645"
-          y="450"
-          font-family="Arial, sans-serif"
-          font-size="13"
-          fill="#60a5fa">
-      View Project →
-    </text>
-
-  </a>
-
-
-  <!-- ================= PROJECT 5 ================= -->
-
-  <a href="https://github.com/2004-abhi/HTML-CSS-WEB-PAGEE">
-
-    <rect x="30"
-          y="520"
-          width="1140"
-          height="210"
-          rx="16"
-          fill="#111827"
-          stroke="#263449"/>
-
-    <circle cx="80"
-            cy="570"
-            r="28"
-            fill="#22c55e"/>
-
-    <text x="80"
-          y="578"
-          text-anchor="middle"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          font-weight="bold"
-          fill="#ffffff">
-      UI
-    </text>
-
-    <text x="125"
-          y="560"
-          font-family="Arial, sans-serif"
-          font-size="20"
-          font-weight="bold"
-          fill="#f8fafc">
-      HTML CSS Web Pages
-    </text>
-
-    <text x="125"
-          y="590"
-          font-family="Arial, sans-serif"
-          font-size="14"
-          fill="#94a3b8">
-      A collection of web page projects built using HTML and CSS.
-    </text>
-
-    <text x="125"
-          y="630"
-          font-family="Arial, sans-serif"
-          font-size="13"
-          fill="#22d3ee">
-      HTML • CSS • Web Development • Frontend
-    </text>
-
-    <text x="125"
-          y="675"
-          font-family="Arial, sans-serif"
-          font-size="13"
-          fill="#60a5fa">
-      View Project →
-    </text>
-
-  </a>
+        </div>
+    </foreignObject>
 
 </svg>
